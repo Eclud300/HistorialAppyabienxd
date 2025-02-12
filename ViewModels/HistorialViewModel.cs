@@ -10,9 +10,9 @@ namespace HistorialApp.ViewModels
         {
             Historial = new List<HistorialItem>
             {
-                new HistorialItem { Dia = "Lunes", Porcentaje = "80%", Tiempo = "10:30 AM" },
-                new HistorialItem { Dia = "Martes", Porcentaje = "65%", Tiempo = "12:00 PM" },
-                new HistorialItem { Dia = "Miércoles", Porcentaje = "90%", Tiempo = "9:45 AM" }
+                new HistorialItem { Dia = "01/01/2025", Porcentaje = "80%", Tiempo = "10:30 AM" },
+                new HistorialItem { Dia = "01/01/2025", Porcentaje = "65%", Tiempo = "12:00 PM" },
+                new HistorialItem { Dia = "01/01/2025", Porcentaje = "90%", Tiempo = "9:45 AM" }
             };
         }
     }
